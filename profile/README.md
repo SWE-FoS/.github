@@ -1,5 +1,5 @@
 
-# Focus on Speaking(FoS)
+# 🗣️ Focus on Speaking(FoS)
 ## An AI-Powered Real-Time Presentation & Meeting Assistant for Enhanced Clarity and Intelligent Visualization
 <img width="1230" alt="FOS intro" src="https://github.com/user-attachments/assets/d9f63c92-d7d7-493d-b77c-d8c98f310c1f" />
 
@@ -42,7 +42,7 @@ By integrating tightly with **LG Smart Office (webOS, One:Quick, signage)** and 
 
 ---
 
-## 👥 Team [Potato Savior]
+## Team [Potato Savior] Members
 
 | Name          | Department / Division                   | Role                       | Location                 | Email                     |
 |---------------|------------------------------------------|-----------------------------|---------------------------|----------------------------|
