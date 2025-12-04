@@ -54,7 +54,7 @@ Ultimately, FoS converts raw speech into **organized, actionable meeting knowled
 
 ---
 
-## 👥 Team [Potato Savior]
+## 👥 Team Members
 
 | Name          | Department / Division        | Role                       | Email                     |
 |---------------|------------------------------|-----------------------------|----------------------------|
