@@ -42,7 +42,7 @@ By integrating tightly with **LG Smart Office (webOS, One:Quick, signage)** and 
 
 ---
 
-## 👥 Team Potato Savior
+## 👥 Team [Potato Savior]
 
 | Name          | Department / Division                   | Role                       | Location                 | Email                     |
 |---------------|------------------------------------------|-----------------------------|---------------------------|----------------------------|
