@@ -44,12 +44,12 @@ By integrating tightly with **LG Smart Office (webOS, One:Quick, signage)** and 
 
 ## Team [Potato Savior] Members
 
-| Name          | Department / Division                   | Role                       | Location                 | Email                     |
-|---------------|------------------------------------------|-----------------------------|---------------------------|----------------------------|
-| Sangyoon Kwon | Department of Computer Science           | Backend Development         | Seoul, Republic of Korea | is0110@hanyang.ac.kr      |
-| Hyeyun Kwon   | Department of Information Systems        | Frontend Development        | Seoul, Republic of Korea | herakwon1124@hanyang.ac.kr |
-| Dohoon Kim    | Department of Computer Science           | Backend Development         | Seoul, Republic of Korea | april2901@hanyang.ac.kr   |
-| Seohyun Kim   | Department of Information Systems        | Frontend Development        | Seoul, Republic of Korea | dianwls0326@hanyang.ac.kr |
-| Daeun Lee     | Division of Business Administration      | UI Design, PM, User Testing | Seoul, Republic of Korea | shinran2929@hanyang.ac.kr |
-| Minhyuk Jang  | Division of Business Administration      | UI Design, PM, User Testing | Seoul, Republic of Korea | jmh12230@hanyang.ac.kr    |
+| Name          | Department / Division                   | Role                       | Email                     |
+|---------------|------------------------------------------|-----------------------------|----------------------------|
+| Sangyoon Kwon | Department of Computer Science           | Backend Development         | is0110@hanyang.ac.kr      |
+| Hyeyun Kwon   | Department of Information Systems        | Frontend Development        | herakwon1124@hanyang.ac.kr |
+| Dohoon Kim    | Department of Computer Science           | Backend Development         | april2901@hanyang.ac.kr   |
+| Seohyun Kim   | Department of Information Systems        | Frontend Development        | dianwls0326@hanyang.ac.kr |
+| Daeun Lee     | Division of Business Administration      | UI Design, PM, User Testing | shinran2929@hanyang.ac.kr |
+| Minhyuk Jang  | Division of Business Administration      | UI Design, PM, User Testing | jmh12230@hanyang.ac.kr    |
 
