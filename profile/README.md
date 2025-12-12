@@ -41,10 +41,10 @@ Ultimately, FoS converts raw speech into **organized, actionable meeting knowled
 <br/>
 
 ## ▶️ Video
-<a href="https://www.youtube.com/watch?v=royprS6XAPg" target="_blank">
+<a href="https://www.youtube.com/watch?v=royprS6XAPg&feature=youtu.be" target="_blank">
   <img
-    src="https://img.youtube.com/vi/royprS6XAPg/maxresdefault.jpg"
-    alt="FoS Demo Video"
+    src="assets/fos-video-banner.png"
+    alt="FoS Demo Video – Don’t do anything else. Just speak."
     width="100%"
   />
 </a>
