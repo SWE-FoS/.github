@@ -1,7 +1,9 @@
 # 🗣️ Focus on Speaking (FoS)
 ### 25-2 Hanyang University Software Engineering Project
 
-<img width=full alt="FoS overview" src="https://github.com/user-attachments/assets/fcaabd7f-fa7b-43df-bc9d-dc03b456200c" />
+<a href="https://www.youtube.com/watch?v=royprS6XAPg&feature=youtu.be">
+  <img width="100%" alt="FoS overview" src="https://github.com/user-attachments/assets/fcaabd7f-fa7b-43df-bc9d-dc03b456200c" />
+</a>
 
 <br/>
 <br/>
