@@ -43,7 +43,7 @@ Ultimately, FoS converts raw speech into **organized, actionable meeting knowled
 ## 📹 Video
 🔗 Please click the image below
 [<img width="1440" height="810" alt="fos overview video" src="https://github.com/user-attachments/assets/6d2c8963-a90a-4f95-9df4-c989b793e5b5" />
-](https://www.youtube.com/watch?v=royprS6XAPg&feature=youtu.be)
+](https://www.youtube.com/watch?v=Xog0xI4qzKc)
 
 <br/>
 <br/>
